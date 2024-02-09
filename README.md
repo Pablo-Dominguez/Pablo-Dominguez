@@ -1,7 +1,8 @@
 ### Well, howdy there! 👋
-<p align="center">
+
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=Pablo-Dominguez)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 ---
 
